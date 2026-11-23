@@ -23,7 +23,7 @@ text from a real grandma, not a tech word dressed up as one.
 
 `main.py` writes the word to `$MAKEFUN_OUTPUT_DIR/entry.txt`
 (the harness's `/output/entry.txt`). The output is exactly one word,
-12 characters, UTF-8, within the required 1–30 characters.
+11 characters, UTF-8, within the required 1–30 characters.
 
 ## Run it
 
